@@ -64,6 +64,7 @@
   padding: 0 40px;
 }
 
+
 .messages {
   background-color: #fafafa;
   height: calc( 100vh - 100px - 90px);
@@ -78,9 +79,3 @@
 
 }
 
-<<<<<<< HEAD
-.hidden {
-  display: none;
-}
-=======
->>>>>>> parent of c6c15bb... チャット画面のフロント実装修正
